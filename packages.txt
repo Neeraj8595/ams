@@ -1,0 +1,8 @@
+build-essential
+cmake
+libopenblas-dev
+liblapack-dev
+libx11-dev
+libgtk-3-dev
+libgl1-mesa-glx
+libgl1-mesa-dev
